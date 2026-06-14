@@ -8,6 +8,11 @@ title=Web Server (HTTPS)
 description=Web Server (HTTPS)
 ports=443/tcp
 
+[WWW HTTP3]
+title=Web Server (HTTP/3 - QUIC)
+description=Web Server (HTTP/3 - QUIC)
+ports=443/udp
+
 [WWW Full]
 title=Web Server (HTTP,HTTPS)
 description=Web Server (HTTP,HTTPS)
