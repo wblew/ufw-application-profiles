@@ -2,3 +2,8 @@
 title=NFS server
 description=NFS and portmap server. Will also need access to mountd, statd and possibly others
 ports=2049,111/tcp|2049,111/udp
+
+[NFSv4]
+title=NFSv4 server
+description=NFSv4 server. WITHOUT Sun RPC. Only this static port is needed.
+ports=2049
