@@ -1,0 +1,4 @@
+[Tailscale]
+title=Tailscale, Private WireGuard® networks made easy
+description=The easiest, most secure, cross platform way to use WireGuard + oauth2 + 2FA/SSO
+ports=41641/udp
