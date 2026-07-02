@@ -1,0 +1,4 @@
+[Unbound]
+title=Internet Domain Name Server
+description=Unbound is a lightweight, open-source DNS server that functions primarily as a recursive, caching resolver.
+ports=53/udp|53,443,853/tcp
