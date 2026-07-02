@@ -1,0 +1,4 @@
+[Hawser]
+title=Hawser Dockhand agent
+description=Hawser - Remote Docker agent for Dockhand - manage Docker hosts anywhere.
+ports=2376/tcp
