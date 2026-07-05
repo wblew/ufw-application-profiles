@@ -1,0 +1,4 @@
+[iPerf3]
+title=iPerf3
+description=Internet Protocol bandwidth measuring tool. It can test either TCP or UDP throughput.
+ports=5201/tcp|5201/udp
