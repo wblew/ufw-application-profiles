@@ -2,3 +2,8 @@
 title=NTP
 description=Network Time Protocol
 ports=123/tcp|123/udp
+
+[NTP NTS]
+title=NTP
+description=Network Time Security for the Network Time Protocol
+ports=123/tcp|123/udp|4460/tcp
